@@ -10,17 +10,19 @@
 
 ## Prompt 1
 
-**Data:** [dd/mm/aaaa]
+**Data:** [19/10/2026]
 
 **Prompt:**
 
 ```
-[cole aqui o texto exato que você enviou]
+[Implemente as quatro funções descritas acima em JavaScript puro (Node.js),
+no arquivo src/pedido.js, no formato CommonJS indicado no início do documento.
+Entregue apenas o código do arquivo, sem explicações e sem bibliotecas externas.]
 ```
 
-**Resumo da resposta:** [o que a IA respondeu, em 2 ou 3 linhas]
+**Resumo da resposta:** [Ela apenas retornou o código, que foi colocado no pedido.js]
 
-**O que fiz com isso:** [usei o código? testei? corrigi? descartei por quê?]
+**O que fiz com isso:** [Rodamos o npm test para garantir que a função retornava os parametrods pedido, o resultado foi positivo.]
 
 ---
 
