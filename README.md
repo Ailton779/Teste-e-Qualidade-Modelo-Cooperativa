@@ -1,8 +1,8 @@
 # Código da IA sob inspeção: Pedidos da Cooperativa
 
-**Dupla:** [nome do estudante A] e [nome do estudante B]
+**Dupla:** José Ailton e Fernanda Lara
 **Disciplina:** Qualidade de Software, ADS, IFCE Campus Boa Viagem
-**Ferramenta de IA usada:** [ex.: ChatGPT, Claude, Gemini, Copilot]
+**Ferramenta de IA usada:** DeepSeek-V4.1-Flash-1017
 
 > Apaguem as instruções em itálico ao preencher. Sigam as partes **na ordem**. A Parte 3 só começa quando o professor publicar o depoimento no Classroom.
 

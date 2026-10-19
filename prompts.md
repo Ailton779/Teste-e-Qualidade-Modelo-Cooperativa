@@ -1,8 +1,8 @@
 # Registro do uso da IA
 
-**Dupla:** [nomes]
+**Dupla:** José Ailton e Fernanda Lara
 **Atividade:** Código da IA sob inspeção: Pedidos da Cooperativa
-**Ferramenta(s) usada(s):** [ex.: ChatGPT, Claude, Gemini, Copilot; indique a versão ou o plano, se souber]
+**Ferramenta(s) usada(s):** DeepSeek-V4.1-Flash-1017
 
 > Registre todos os prompts relevantes, na ordem em que foram usados. Obrigatórios: o prompt que gerou o código (Parte 1) e o prompt que gerou os testes da IA (Parte 2.6). Não é preciso colar a resposta inteira da IA: resuma o que ela respondeu e diga o que você fez com isso.
 
