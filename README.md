@@ -40,8 +40,8 @@ Para rodar os testes da dupla: `npm test` (Node.js 18 ou superior).
 
 | Integrante | Funções sob sua responsabilidade |
 |---|---|
-| [estudante A] | [função 1] e [função 2] |
-| [estudante B] | [função 3] e [função 4] |
+| [José Ailton] | [calcularSubtotal] e [aplicarDesconto] |
+| [Fernanda Lara] | [calcularFrete] e [fecharPedido] |
 
 ### 2.2 Casos de teste
 
